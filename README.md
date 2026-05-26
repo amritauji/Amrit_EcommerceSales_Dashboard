@@ -14,3 +14,5 @@ This project features an interactive Power BI dashboard designed to track and an
   - Sales trend analysis
   - Category performance tracking
   - Regional analytics
+
+<img width="1162" height="653" alt="image" src="https://github.com/user-attachments/assets/3acf5f27-402a-4c36-9767-24c1fbbd7bbc" />
